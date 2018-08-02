@@ -12,9 +12,7 @@
 
 
 
-//= require_tree .
 
 
 
-
-$(".place").css("border","1px solid red")
+// $(".place").css("border","1px solid red")
