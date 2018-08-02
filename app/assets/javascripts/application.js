@@ -14,7 +14,7 @@
 
 //= require_tree .
 
-//= require bootstrap-sprockets
+
 
 
 $(".place").css("border","1px solid red")
