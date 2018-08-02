@@ -10,7 +10,13 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require rails-ujs
+//= require activestorage
 
+//= require_tree .
+
+//= require jquery
+//= require bootstrap-sprockets
 
 
 $(".place").css("border","1px solid red")
